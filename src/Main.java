@@ -1,4 +1,4 @@
-public class Main {
+/*public class Main {
     public static void main(String[] args) {
 
         System.out.println("Задание №3");
@@ -55,4 +55,4 @@ public class Main {
     private static void Formula(double a, double d, double c, double b) {
         System.out.println(a * (b + (c / d)));
     }
-}
+}*/
