@@ -1,4 +1,4 @@
-package lesson2;
+/*package lesson2;
 
 import java.lang.reflect.Array;
 import java.util.Arrays;
@@ -145,4 +145,4 @@ public class Main2 {
         System.out.println(Arrays.toString(arr));
         System.out.println();
     }
-}
+}*/
