@@ -1,4 +1,4 @@
-package lesson3;
+/*package lesson3;
 
 import java.util.Random;
 import java.util.Scanner;
@@ -54,4 +54,4 @@ public class Main3 {
 
 }
 
-
+*/
