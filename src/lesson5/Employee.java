@@ -1,3 +1,4 @@
+/*
 package lesson5;
 
 public class Employee {
@@ -24,3 +25,4 @@ public class Employee {
 
     }
 }
+*/
