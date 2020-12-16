@@ -1,3 +1,4 @@
+/*
 package lesson6;
 
 public class Cat extends Animal {
@@ -6,3 +7,4 @@ public class Cat extends Animal {
         super(name, ranDistance, jumpHeight);
     }
 }
+*/

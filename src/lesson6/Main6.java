@@ -1,3 +1,4 @@
+/*
 package lesson6;
 
 public class Main6 {
@@ -28,3 +29,4 @@ public class Main6 {
 
 
 }
+*/
